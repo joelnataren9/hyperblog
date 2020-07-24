@@ -4,7 +4,7 @@ Un blog increible para el curso de [**Git y Github de PLatzi**](https://platzi.c
 >  - yeah baby
 
 ## En este curso se ve de todo:
-*Todos los comandos de Git.
+* Todos los comandos de Git.
 * El flujo de trabajo de GutHub.
 * El verdadero amor por las buenas prácticas.
 * Trucos de Freeddy
