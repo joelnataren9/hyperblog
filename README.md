@@ -7,6 +7,7 @@ Un blog increible para el curso de [**Git y Github de PLatzi**](https://platzi.c
 * Todos los comandos de Git.
 * El flujo de trabajo de GutHub.
 * El verdadero amor por las buenas prácticas.
-* Trucos de Freeddy
+* Trucos de Freddy
+* Creado por el increíble Joelazo
 
 Y como saben **Este readme.md no está tan profesional xd**. Diseñado para practicar y aprender. 🤑
