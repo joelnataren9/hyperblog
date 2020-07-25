@@ -9,5 +9,6 @@ Un blog increible para el curso de [**Git y Github de PLatzi**](https://platzi.c
 * El verdadero amor por las buenas prácticas.
 * Trucos de Freddy
 * Creado por el increíble Joelazo
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como saben **Este readme.md no está tan profesional xd**. Diseñado para practicar y aprender. 🤑
